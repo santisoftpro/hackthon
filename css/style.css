@@ -2209,13 +2209,7 @@ h3 {
 /* line 1, ../../Arafath/CL/December/236. Event-02/HTML/scss/_performer.scss */
 /*    =============== my part =====================*/
 .performar_area {
-  background-color: #780000);
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  padding-top: 135px;
-  padding-bottom: 63px;
+  background-color: #780000);9
 }
 
 @media (max-width: 767px) {
