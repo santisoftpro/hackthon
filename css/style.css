@@ -1478,12 +1478,20 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/rwanda.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 /* line 4, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
 .slider_bg_2 {
   background-image: url(../img/banner/banner2.png);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 /* line 7, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
@@ -2020,7 +2028,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
 .bradcam_bg_1 {
-  background-image: url(../img/banner/bradcam_1.png);
+  background-image: url(../img/banner/image3.jpg);
 }
 
 /* line 4, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
@@ -2199,7 +2207,13 @@ h3 {
 }
 
 /* line 1, ../../Arafath/CL/December/236. Event-02/HTML/scss/_performer.scss */
+/*    =============== my part =====================*/
 .performar_area {
+  background-color: #780000);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   padding-top: 135px;
   padding-bottom: 63px;
 }
@@ -5770,3 +5784,21 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* ----------------- my implementation -----------*/
+
+/*set logo */
+
+.logo {
+
+  margin-left: 10px;       /* Adds some space around the logo */
+  width: 250px;       /* Sets the width of the logo */
+  height: auto;       /* Maintains the aspect ratio of the logo */
+}
+
+#navigation {
+  margin-left: 50px;
+}
+
+
+
